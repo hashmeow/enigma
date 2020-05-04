@@ -1,4 +1,4 @@
-# enigma
+# E N I G M A
 >  To convey data out of a system not via any port (Virtual/Physical) nor network but through keyboard lighting morse code.
 >  A data retrival tool which ofcourse may be the last option.
 
